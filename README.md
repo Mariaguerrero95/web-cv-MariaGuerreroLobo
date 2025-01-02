@@ -2,7 +2,7 @@
 
 Welcome!
 
-This is my personal web resume where you can explore my professional profile, including my studies, experience, skills, featured projects, and contact information. I created this page as part of my journey as a junior web developer, using technologies as HTML, CSS and React + Vite.
+This is my personal web resume where you can explore my professional profile, including my studies, experience, skills, featured projects, and contact information. I created this page as part of my journey as a web developer junior, using technologies as HTML, CSS and React + Vite.
 
 ## Where can I find the website?
 
