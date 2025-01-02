@@ -23,7 +23,7 @@ function Main() {
             case "education":
                 return (
                     <div>
-                        <h3>FULL STACK WEB DEVELOPEMENT BOOTCAMP - ADALAB</h3>
+                        <h3>FULL STACK WEB DEVELOPMENT BOOTCAMP - ADALAB</h3>
                         <p>
                             Sep. 24 - Dec. 24<br />
                             FRONTEND: HTML5, CSS3, JavaScript and React<br />
