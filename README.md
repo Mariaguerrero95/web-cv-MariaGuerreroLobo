@@ -26,4 +26,4 @@ npm run dev
 
 ## Credits
 
-This project was developed by María Guerrero Lobo to showcase a big part of what I’ve learned during my Web Development Master’s program. It is designed to demonstrate my skills and knowledge to potential employers and collaborators.
+This project was developed by María Guerrero Lobo to showcase a big part of what I’ve learned during my Web Development Master’s program. It is designed to demostrate my skills and knowledge to potential employers and collaborators.
